@@ -1,0 +1,32 @@
+body {
+    background-color: #ee2642;
+    text-align: center;
+}
+
+#kanye {
+    border: solid 5px #dfa94b;
+    display: block;
+    margin: auto;
+}
+
+#advisory {
+    height: 100px;
+    width: 200px;
+    right: 5px;
+    bottom:5px;
+    position: absolute;
+}
+
+#button {
+    padding-top: 20px;
+    background-color: #ee2642;
+    border: none;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#quote {
+    padding-top: 15px;
+    font-style: italic;
+    font-size: 28px;
+}
